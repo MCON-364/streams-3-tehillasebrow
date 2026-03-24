@@ -1,0 +1,13 @@
+stationId,city,date,temperatureC,humidity,precipitationMm
+ST01,New York,2025-01-01,3.5,65,0.0
+ST01,New York,2025-01-02,4.2,70,1.5
+ST02,Boston,2025-01-01,-2.0,58,0.0
+ST02,Boston,2025-01-02,999.0,61,0.0
+ST03,Chicago,2025-01-01,-5.1,72,2.3
+ST03,Chicago,2025-01-02,,75,1.8
+ST04,Miami,2025-01-01,24.8,80,0.0
+ST04,Miami,2025-01-02,25.1,82,0.0
+ST05,Denver,2025-01-01,1.2,150,0.0
+ST05,Denver,2025-01-02,-1.0,55,0.4
+BADROW
+ST06,Seattle,2025-01-01,8.4,88,5.2
